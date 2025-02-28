@@ -70,15 +70,15 @@ The app will be available at `http://localhost:5173/`.
 
 ### 🏠 **Homepage**
 
-![Homepage](https://via.placeholder.com/600x300.png?text=Homepage)
+![image](https://github.com/user-attachments/assets/6c638fcf-d4f6-46e8-833e-7057d67083db)
 
 ### 📄 **Product Page**
 
-![Product Page](https://via.placeholder.com/600x300.png?text=Product+Page)
+![image](https://github.com/user-attachments/assets/04ad61d4-8a64-438b-97fa-4e599f1a71eb)
 
 ### 🛒 **Cart Page**
 
-![Cart Page](https://via.placeholder.com/600x300.png?text=Cart+Page)
+![image](https://github.com/user-attachments/assets/4ba4b1a0-8b54-4b02-aedd-eebad34c4b48)
 
 ---
 
